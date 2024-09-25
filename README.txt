@@ -2,7 +2,7 @@ Python Libraries used:-
 a).pandas
 b).sqlalchemy
 c).pymysql
-Database is created using MySQL.
+Database library is created using MySQL.
 
 Brief explanation of the project:-
 The program allows a user to:-
